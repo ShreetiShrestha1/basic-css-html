@@ -1,0 +1,20 @@
+Q) Differenciate between flex-box and grid-box?
+
+-> Semantic HTML5 le search engine optimization, text to speech, translation.
+
+Q) Explain CSS box model?
+Ans- o Figure fox banauney
+     o Example:
+     <div class="box">
+        Text
+     </div>
+Corresponding CSS code:
+     .box{
+        margin: 3rem;
+        padding: 2rem;
+        font-size: 1.5rem;
+     }                 
+     o Explanation
+
+   Q) Utility classes of bootstrap,
+   -> bootstrap lai modify garne
