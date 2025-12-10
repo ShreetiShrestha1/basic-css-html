@@ -165,6 +165,7 @@ form input::placeholder{
     border-radius: 0.5rem;
     border: 1px solid black;
     font-size: 1rem;
+    
 }
 
 .Submit:hover{
@@ -174,18 +175,32 @@ form input::placeholder{
 .box{
     font-size: 1rem;
     border: 1px solid black;
-    width: 45% ;
-    height: 20rem;
-    padding-left: 2rem;
-    padding-top: 2rem;
+    width: 85% ;
+    height: 30rem;
+    padding-left: 4rem;
+    padding-top: 4rem;
+
+
 }
 
-.multimedia{
+article{
     display: flex;
-    align-items: center;
- }
+    gap: 5rem;
+    padding-left: 2rem;
+    padding-top: 5rem;
+}
 
-.item{ 
-    width: 49% ;
-    border-radius: 1rem;
+.mb-3,.mb-4{
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 85%;
+
+}
+
+.mb-3{
+    font-weight: bold;
+}
+ 
+footer{
+    padding-left: 43rem;
 }
